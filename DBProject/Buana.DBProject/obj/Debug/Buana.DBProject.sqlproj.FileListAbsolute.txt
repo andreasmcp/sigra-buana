@@ -1,0 +1,7 @@
+E:\Andreas\Buana\DBProject\Buana.DBProject\bin\Debug\Buana.DBProject.dacpac
+E:\Andreas\Buana\DBProject\Buana.DBProject\obj\Debug\Model.xml
+E:\Andreas\Buana\DBProject\Buana.DBProject\obj\Debug\refactor.xml
+E:\Andreas\Buana\DBProject\Buana.DBProject\obj\Debug\postdeploy.sql
+E:\Andreas\Buana\DBProject\Buana.DBProject\obj\Debug\predeploy.sql
+E:\Andreas\Buana\DBProject\Buana.DBProject\obj\Debug\Buana.DBProject.dll
+E:\Andreas\Buana\DBProject\Buana.DBProject\obj\Debug\Buana.DBProject.pdb

@@ -1,0 +1,5 @@
+E:\Andreas\Buana\Buana\Buana.DataAccess\bin\Debug\Buana.DataAccess.dll
+E:\Andreas\Buana\Buana\Buana.DataAccess\bin\Debug\Buana.DataAccess.pdb
+E:\Andreas\Buana\Buana\Buana.DataAccess\obj\Debug\Buana.DataAccess.csprojResolveAssemblyReference.cache
+E:\Andreas\Buana\Buana\Buana.DataAccess\obj\Debug\Buana.DataAccess.dll
+E:\Andreas\Buana\Buana\Buana.DataAccess\obj\Debug\Buana.DataAccess.pdb

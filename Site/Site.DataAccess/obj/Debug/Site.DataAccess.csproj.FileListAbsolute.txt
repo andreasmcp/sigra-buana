@@ -1,0 +1,7 @@
+E:\Andreas\Buana\Site\Site.DataAccess\bin\Debug\Site.DataAccess.dll
+E:\Andreas\Buana\Site\Site.DataAccess\bin\Debug\Site.DataAccess.pdb
+E:\Andreas\Buana\Site\Site.DataAccess\bin\Debug\Npgsql.dll
+E:\Andreas\Buana\Site\Site.DataAccess\bin\Debug\Npgsql.xml
+E:\Andreas\Buana\Site\Site.DataAccess\obj\Debug\Site.DataAccess.csprojResolveAssemblyReference.cache
+E:\Andreas\Buana\Site\Site.DataAccess\obj\Debug\Site.DataAccess.dll
+E:\Andreas\Buana\Site\Site.DataAccess\obj\Debug\Site.DataAccess.pdb
